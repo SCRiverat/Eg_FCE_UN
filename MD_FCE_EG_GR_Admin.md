@@ -1,5 +1,5 @@
 >Estudio de egresados de los programas de de Administración de Empresas y Maestría en Administración de la Universidad Nacional de Colombia, sede Bogotá
-| Borrador
+(Borrador)
 # **Propuesta**
 
 ## **Antecedentes**
@@ -18,12 +18,14 @@ La etapa piloto prevista para los meses de mayo y junio de 2023, comprende activ
 
    - Caracterizar la población de graduados del programa de pregrado de Administración de Empresas y de la maestría en Administración, a partir de fuentes de informacion secundaria.
    - Comprender la transición entre la formación profesional y la inserción laboral y ocupacional de los graduados del programa del programa de pregrado de Administración de Empresas y de la maestría en Administración.
-   - Identificar los patrones de vinculación laboral de los egresados del programa de pregrado de Administración de Empresas y de la maestría en Administración.Identificar los rangos salariales reportados para los egresados del programa de pregrado de Administración de Empresas y de la maestría en Administración.
-   - Representar los recorridos educativos y laborales (*parcours)* en la trayectoria profesional de los graduados del programa en Administración de Empresas y de la maestría en Administración. 
+   - Identificar los patrones de vinculación laboral de los egresados del programa de pregrado de Administración de Empresas y de la maestría en Administración.
+   - Identificar los rangos salariales reportados para los egresados del programa de pregrado de Administración de Empresas y de la maestría en Administración.
+   - Representar los recorridos educativos y laborales (*parcours)* en la trayectoria de los graduados del programa en Administración de Empresas y de la maestría en Administración. 
    - Indagar por la percepción de los graduados del programa de pregrado de Administración de Empresas y de la maestría en Administración con respecto a la pertinencia del programa frente a las demandas y tendencias del entorno organizacional al cual estan vinculados.
    - Examinar las necesidades y oportunidades de mejora desde la perspectiva de los graduados con respecto a los procesos curriculares de los programas del área de gestión y organizaciones de la Facultad de Ciencias Económicas, sede Bogotá.
-   - Explorar los vínculos y el potencial del relacionamiento de los graduados del programa de pregrado de Administración de Empresas y de la maestría en Administración con la institución.Presentar hallazgos y recomendaciones al equipo del área curricular de gestión y organizacionees de la Facultad de Ciencias Económicas.
-   
+   - Explorar los vínculos y el potencial del relacionamiento de los graduados del programa de pregrado de Administración de Empresas y de la maestría en Administración con la institución.
+   - Presentar hallazgos y recomendaciones al equipo del área curricular de gestión y organizacionees de la Facultad de Ciencias Económicas.
+
 ## **Justificación**
 
 ## **Alcance**
@@ -34,15 +36,15 @@ La etapa piloto prevista para los meses de mayo y junio de 2023, comprende activ
 
 ## **Categorías**
 
-#### **Aspectos sociodemográficos**
+### **Aspectos sociodemográficos**
 
-#### **Componente educativo**
+### **Componente educativo**
 
-#### **Componente ocupacional** 
+### **Componente ocupacional** 
 
-#### **Trayectorias de los egresados**
+### **Trayectorias de los egresados**
 
-#### **Percepción sobre el programa**
+### **Percepción sobre el programa**
 
 ## **Tendencias del entorno**
 
@@ -70,20 +72,20 @@ La etapa piloto prevista para los meses de mayo y junio de 2023, comprende activ
 ## **Aproximación del estudio**
 
 ## **Población objetivo**
-A partir de la información disponible en el Sistema de información académica -SIA-, se identificaron 1.646 profesionales, suienes han obtenido su título de pregrado en Administracion de Empresas o de Maestria en Administracion, entre los años 2012 a 2022, como se presenta en este aparte del documento.
+A partir de la información disponible en el Sistema de información académica -SIA-, se identificaron 1.646 profesionales, quienes han obtenido su título de pregrado en Administracion de Empresas o de Maestria en Administracion, entre los años 2012 a 2022, como se presenta en este aparte del documento.
 La información disponible en el Sistema de información académica -SIA-, se identificaron 1.191 profesionales, suienes han obtenido su título profesional en Administración de Empresas, entre 2012 y 2022, como se presenta en la Tabla.
 
 >**Tabla Graduados del programa de Administración de Empresas (2012 – 2022)**
  
 
-| Periodo   |   2012 |   2013  |   2014  |   2015  |   2016  |   2017  |   2018  |   2019 |   2020  |   202 |   20220 |   Total |
+| Periodo   |   2012 |   2013  |   2014  |   2015  |   2016  |   2017  |   2018  |   2019 |   2020  |   2021 |   2022 |   Total |
 |:----------|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|--------:|
 | Graduados |       88 |       74 |       96 |      116 |      127 |      123 |      112 |      104 |      115 |      138 |       98 |   1.191 |
 
 *Fuente: Estudio Egresados 2023, Sistema de Información Académica (SIA)*
 
 
-A partir de la información disponible en el Sistema de información académica -SIA-, se identificaron 475 profesionales, suienes han obtenido su título de Magister en Administración entre 2012 y 2022, como se presenta en la Tabla.
+A partir de la información disponible en el Sistema de información académica -SIA-, se identificaron 475 profesionales, quienes han obtenido su título de Magister en Administración entre 2012 y 2022, como se presenta en la Tabla.
 
 
 
@@ -106,10 +108,11 @@ Esta sección detalla algunos aspectos relacionados con la selección de la mues
 
 ## **Tamaño de la muestra**
 Para efectos de establecer el tamaño de la muestra, se consideran un margen de error del 5% con un intervalo de confianza del 95%. Para este estudio, un nivel de confianza del 95%). Significa que, al repetir la encuesta, en el 95 por ciento de las veces, reportan las respuestas de la población.  El nivel de confianza se refiere a la tasa de éxito a largo plazo de la aplicación del método, es decir, la frecuencia con la que este tipo de intervalo capturará el parámetro de interés.
-Fórmula utilizada en el calculo de la muestra 
+Fórmula utilizada en el calculo de la muestra es:
 
- >**Tamaño de Muestra = Z2 * (p) * (1-p) / c2**
->  		*Donde:*
+> **Tamaño de Muestra** = Z2 * (p) * (1-p) / c2
+> 
+> *Donde:*
 > - **Z** = Nivel de confianza (95%) 
 > - **p** = .5
 > - **c** = *Margen de error (.04 = ±4)
@@ -123,27 +126,31 @@ En conclusión, el cálculo del tamaño de la muestra es un aspecto relevante de
 
 ## **Características del marco muestral**
 Para efectos del estudio, se han considerar las siguientes características del marco muestral:
-- Los egresados cuentan con un identificador lógico y numérico.
-- A partir de los registros administrativos se ha podido establecer información sobre las unidades de muestreo presente.
-- Con el proposito de obtener un marco muestral organizado de manera lógica y sistemática, se ha incluido información adicional sobre los egresados incluidos en la muestra, para favorecer otras tecnicas de muestreo en caso de ampliar el estudio a tematicas especificas, tales como: doble titulación, continuidad de estudios de posgrado o brechas de género.
-- El total del grupo de egresados ha sido considerado en el marco muestral y podría ser seleccionado como parte de la muestra a encuestar durante el estudio.
-- Cada egresado está presente solo una vez en el marco muestral. Considerando que en la poblacion de graduados en el programa de pregrado o maestría en Administración se identifican 1.646 registros, de las cuales 20 reportan haber cursado ambos programas. 
-- No hay egresados adicionales a la población de graduados identificados en el periodo 2012 a 2022 en los programas de Administración a nivel de pregrado y maestría, reportados en el sistema SIA.
 
-## **Escenarios para la selección de la muestra
-Para efectos del estudio, se seleccionan los graduados del programa de Administracion de Empresas o de Maestria en Administracion de Empresas, sin repetición. A partir de la depuración de la información del Sistema de Información Académico: 1.646 individuos graduados entre 2012 a 2022, se distribuyen así:
+> - Los egresados cuentan con un identificador lógico y numérico.
+> - A partir de los registros administrativos se ha podido establecer información sobre las unidades de muestreo presente.
+> - Con el proposito de obtener un marco muestral organizado de manera lógica y sistemática, se ha incluido información adicional sobre los egresados incluidos en la muestra, para favorecer otras tecnicas de muestreo en caso de ampliar el estudio a tematicas especificas, tales como: doble titulación, continuidad de estudios de posgrado o brechas de género.
+> - El total del grupo de egresados ha sido considerado en el marco muestral y podría ser seleccionado como parte de la muestra a encuestar durante el estudio.
+> - Cada egresado está presente solo una vez en el marco muestral. 
+> - Considerando que en la poblacion de graduados en el programa de pregrado o maestría en Administración se identifican 1.646 registros, de las cuales 20 reportan haber cursado ambos programas. 
+> - No hay egresados adicionales a la población de graduados identificados en el periodo 2012 a 2022 en los programas de Administración a nivel de pregrado y maestría, reportados en el sistema SIA.
+
+## **Escenarios para la selección de la muestra**
+Para efectos del estudio, se seleccionan los graduados del programa de Administración de Empresas o de Maestria en Administracion de Empresas, sin repetición. A partir de la depuración de la información del Sistema de Información Académico: 1.646 individuos graduados entre 2012 a 2022, se distribuyen así:
 
 > - Graduados del programa de Administracion: **1.234** registros / **1.171 individuos**
 > - Graduados del programa de maestria en Administracion de Empresas: **809** registros / **475 individuos**
+
 > - Graduados del programa de Administracion de Empresas o de Maestria en Administración, con repeticion (registros originales de la informacion del Sistema de Informacion Academico): **2.043** registros.
 
-Para efectos del estudio, se han considerado los siguientes escenarios para el analisis de la muestra, el grupo de Ggraduados del programa de Administracion de Empresas o de Maestria en Administracion de Empresas, sin repetición.
+> Para efectos del estudio, se han considerado los siguientes escenarios para el analisis de la muestra, el grupo de Ggraduados del programa de Administracion de Empresas o de Maestria en Administracion de Empresas, sin repetición.
 
 > - **1.171** graduados del programa de Administración de empresas. Tamaño muestra: **290**
 > -	**475** graduados del programa de Maestría Administración de Empresas. Tamaño muestra: **213**  
 > - **646** individuos, graduados del programa de de Administración de empresas o de Maestría en Administración - Tamaño muestra: **312** 
 
 **Tabla. Resumen de la muestra** 
+
 | Grupo  | Universo |Muestra propuesta  | Muestra final |Margen de error  | Nivel de confianza |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- |
 | Graduados en Administración de Empresas  | 1.171  |290  | .5	  |  | 95%  |
@@ -408,10 +415,12 @@ Esta información será utilizada sólo para los propósitos de la investigació
 ## **Operativo**
 La encuesta será enviada por correo electrónico a las personas que obtuvieron su grado entre 2012 y 2022, a partir de los insumos disponibles en el Sistema de Información Académica, enviados por la División de Registro de la sede Bogotá.  
 
+
 > **Encuesta on-line**
 El acceso a la encuesta estará disponible durante el s de junio de 2023. El formulario se desarrolló de forma digital, a través de la herramienta google forms
 
-**Respuestas**
+
+### **Respuestas**
 Al momento de cierre de este informe (a junio 20 de 2023), se cuenta con un total de ** respuestas de egresados, que permitieron iniciar los análisis incluidos en el informe final. Del total de respuestas, ** % aproximadamente) indicaron que deseaban participar en el estudio. En este sentido, el grupo de estudio para el análisis se compone de ** egresados de los programas de Gestión y Organizaciones de la Facultad de Ciencias Económicas de la sede Bogotá.
 
 # **Resultados**
@@ -428,9 +437,7 @@ Esta sección incluye el análisis descriptivo de los datos obtenidos en la encu
 
 ## **Sintesis**
 
-> **Reporte**
-
-> **Pieza de divulgación**
+> **Reporte*
 
 # **Reflexiones finales**
 
